@@ -5,3 +5,5 @@ list of .CSV database to have:
 - goalscorers.csv
 - results.csv
 - shootouts.csv
+
+# Premessa: è un notebook ironico sull'uso del machine learning. E' un progetto fatto in ITS!
